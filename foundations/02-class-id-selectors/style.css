@@ -1,0 +1,15 @@
+p{  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(246, 97, 97);
+}
+#two{
+    color: blue;
+    font-size: 36px;
+}
+#three{
+    font-size: 24;
+    font-weight: bold;
+}
+#four{
+    background-color: rgb(99, 255, 99);
+    
+}

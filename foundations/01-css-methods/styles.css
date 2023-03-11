@@ -1,0 +1,10 @@
+
+/* div: a red background, white text, a font size of 32px, center aligned, and bold*/
+div{
+    border: 1px ;
+    background-color: red;
+    font-size: 32px ;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
